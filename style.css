@@ -59,11 +59,10 @@ h2 {
 .btns button {
     position: absolute;
     cursor: pointer;
-    width: 150px;
+    width: 100px;
     border: none;
     height: 50px;
     color: white;
-    transform: translateX(32%);
     background: rgba( 184, 136, 144, 0.4 );
     backdrop-filter: blur( 9px );
     -webkit-backdrop-filter: blur( 9px );
